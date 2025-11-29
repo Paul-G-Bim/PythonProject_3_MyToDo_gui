@@ -1,5 +1,3 @@
-from sys import maxsize
-
 from functions import get_todos, store_todos
 import FreeSimpleGUI as sg
 import time
